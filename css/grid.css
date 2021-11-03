@@ -1,0 +1,200 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.bg-primary{
+	background: #16191F; 
+}
+.bg-secondary{
+	background: #917a36;
+}
+.bg-success{
+	background: #C56824;
+}
+.bg-warning{
+	background: #A09F57;
+}
+.bg-error{
+	background: #e76f51;
+}
+.text-primary{
+	color: #0078DE;
+}
+.container-fluid{
+	width: 100%;
+	padding: 0 30px;
+}
+.container{
+	width: 1110px;
+	margin: 0 auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.col-1{
+	width: 8.33%
+}
+.col-2{
+	width: 16.66%
+}
+.col-3{
+	width: 25%
+}
+.col-4{
+	width: 33.33%;
+}
+.col-5{
+	width: 41.66%
+}
+.col-6{
+	width: 50%
+}
+.col-7{
+	width: 58.33%
+}
+.col-8{
+	width: 66.66%
+}
+.col-9{
+	width: 75%
+}
+.col-10{
+	width: 83.33%
+}
+.col-11{
+	width: 91.66%
+}
+.col-12{
+	width: 100%
+}
+.p-1{
+	padding: 20px;
+}
+.pt-1{
+	padding-top:4px;
+}
+.pb-1{
+	padding-bottom: 4px;
+}
+.pl-1{
+	padding-left: 50px;
+}
+.pr-1{
+	padding-right: 4px;
+}
+.px-1{
+	padding: 0 4px;
+}
+.py-1{
+	padding: 4px 0;
+}
+.p-2{
+	padding: 8px;
+}
+.px-4{
+	padding: 0 16px;
+}
+.py-4{
+	padding: 16px 0;
+}
+/*margin*/
+.m-1{
+	margin: 4px;
+}
+.mt-1{
+	margin-top:15px;
+}
+.mt-2{
+	margin-top:15px;
+}
+.mt-3{
+	margin-top:150px;
+}
+.mt-4{
+	margin-top:60px;
+}
+.mt-5{
+	margin-top:220px;
+}
+
+.mt-6{
+	margin-top:550px;
+}
+.mb-1{
+	margin-bottom: 30px;
+}
+.ml-1{
+	margin-left: 150px;
+}
+.ml-2{
+	margin-left: 270px;
+}
+.ml-3{
+	margin-left: 80px;
+}
+.ml-4{
+	margin-left: 15px;
+}
+.ml-5{
+	margin-left: 530px;
+}
+.ml-6{
+	margin-left: 290px;
+}
+.ml-7{
+	margin-left: 390px;
+}
+.ml-8{
+	margin-left: 38px;
+}
+.mr-1{
+	margin-right: 200px;
+}
+.mx-1{
+	margin: 0 4px;
+}
+.my-1{
+	margin: 4px 0;
+}
+.mx-auto{
+	margin: 0 auto;
+}
+.justyfi-between
+{
+	justify-content: space-between;
+}
+.align-s-center
+{
+	align-self: center;
+}
+.align-content
+{
+	align-content: center;
+}
+.align-s-bottom
+{
+	align-self: flex-end;
+}
+.align-s-top
+{
+	align-self: flex-start;
+}
+.justyfi-center
+{
+	justify-content: center;
+}
+
+.justyfi-even
+{
+	justify-content: space-evenly;
+}
+
+.align-bottom
+{
+	align-content: flex-end;
+}
